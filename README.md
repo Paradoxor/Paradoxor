@@ -2,9 +2,9 @@
 
 # Tobias Knaus
 
-**Hands-on CTO · Software Architect**
+**Hands-on CTO · Software Architecture · Engineering Leadership**
 
-Building SaaS, cloud-native platforms and high-performing engineering teams.
+Building & scaling SaaS platforms · AI · Cloud
 
 [![Website](https://img.shields.io/badge/Website-tobias--knaus.de-38bdf8?style=flat-square&labelColor=050b18&logo=astro&logoColor=38bdf8)](https://tobias-knaus.de)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-in%2Ftobiasknaus-38bdf8?style=flat-square&labelColor=050b18&logo=linkedin&logoColor=38bdf8)](https://linkedin.com/in/tobiasknaus)
@@ -18,16 +18,19 @@ For more than 16 years I have helped companies build, modernize and scale softwa
 
 Unlike many engineering leaders, I remain deeply hands-on — writing production code, reviewing architecture and helping teams ship high-quality software faster.
 
-## Currently
+## Focus
 
-**CTO · Zazoon AG** — leading engineering, architecture and product for a cloud-native GRC SaaS platform on Azure & Kubernetes.
+**Technology Leadership · System Architecture · AI & Cloud**
+
+- **[Walddigital Ventures](https://walddigital-ventures.de/)** — Co-Founder & CTO of our software company: software engineering, architecture, SaaS and cloud-native development
+- **[Viamor](https://viamor.de)** — Co-Founder & hands-on CTO of a real-time dating & community platform on web, iOS and Android
 
 ## Where I create leverage
 
 - **Engineering Leadership** — high-performing teams, clear processes, strong ownership
 - **Software Architecture** — scalable, secure, maintainable platforms across backend, frontend and cloud
 - **Cloud & Kubernetes** — cloud-native systems with Azure, AWS, CI/CD and DevSecOps
-- **AI-assisted Engineering** — automation that improves productivity, code quality and delivery speed
+- **AI-assisted Engineering** — practical AI in real teams: developer productivity, code quality and architecture, and engineering leadership in the AI era
 - **Business Impact** — aligning technology decisions with product strategy and customer value
 
 ## Stack
@@ -39,12 +42,15 @@ Unlike many engineering leaders, I remain deeply hands-on — writing production
 | **Frontend & Mobile** | Angular · React · Vue · Flutter · React Native |
 | **Cloud & Infrastructure** | Azure · AWS · Google Cloud · Kubernetes · Docker · CI/CD · DevSecOps |
 | **Data** | PostgreSQL · MySQL · MongoDB · Redis · Elasticsearch |
-| **AI & Automation** | AI-assisted Development · Code Review Automation · Workflow Automation |
+| **AI & Automation** | AI-assisted Development · AI-supported Engineering Workflows · Code Review Automation · Workflow Automation |
 
-## Selected leadership roles
+## Selected roles
 
-- **CTO** — Zazoon AG · cloud-native GRC SaaS platform
-- **Founder & CTO** — C85 GmbH · software architecture & interim CTO consultancy
+- **System Architect** — HDI Global SE · system, enterprise & cloud architecture (since 2026)
+- **Co-Founder & CTO** — Walddigital Ventures GmbH · operating software company (since 2024)
+- **CTO** — Zazoon AG · cloud-native GRC SaaS platform (2024–2026)
+- **Co-Founder & Hands-on CTO** — Viamor GmbH · real-time dating & community platform (since 2019)
+- **Co-Founder** — C85 GmbH · founded 2016 as a digital agency, our holding company since 2024
 - **VP Engineering** — EVA Global · global EV charging platform (42-person org)
 - **Head of Technology** — Diligram · NHS document-management platform
 - **Director of Technology** — ada Learning · scaling engineering through hypergrowth
@@ -52,7 +58,7 @@ Unlike many engineering leaders, I remain deeply hands-on — writing production
 
 ## Industries
 
-GRC · FinTech · Mobility · Healthcare · E-Commerce · EdTech
+GRC · Insurance · FinTech · Mobility · Healthcare · E-Commerce · EdTech
 
 ---
 
